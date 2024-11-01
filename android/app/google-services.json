@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449787504996",
+    "firebase_url": "https://ghardekhoapps-default-rtdb.firebaseio.com",
+    "project_id": "ghardekhoapps",
+    "storage_bucket": "ghardekhoapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449787504996:android:09836d89ee92ebf5897271",
+        "android_client_info": {
+          "package_name": "com.ghardekhoo.ghardekhoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449787504996-tiqnafrercb1j7aappjfr1f97pkelul9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghardekhoo.ghardekhoo",
+            "certificate_hash": "21d3f39bdad39e159094569c506c0eca58985823"
+          }
+        },
+        {
+          "client_id": "449787504996-ce368102dqb44v2di5l87mpfa3nfg9v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrSG4kdR_vylCuCR9GnM2-Aqry_-IemFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449787504996-ce368102dqb44v2di5l87mpfa3nfg9v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

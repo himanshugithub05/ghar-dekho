@@ -1,0 +1,58 @@
+name: ghardekhoo
+description: "A new Flutter project."
+
+# Prevents accidental publishing to pub.dev
+publish_to: 'none'
+
+# Version and build number for your app
+version: 1.0.0+1
+
+# Flutter SDK version
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+# Dependencies
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.6.0
+  firebase_auth: ^5.3.1
+  firebase_storage: ^12.3.4
+  cloud_firestore: ^5.4.4
+  get: ^4.6.6
+  velocity_x: ^4.2.1
+  provider: ^6.0.0
+  flutter_native_splash: ^2.4.1
+  image_picker: ^1.1.2
+  image_cropper: ^8.0.2
+
+#  google_sign_in: ^6.2.1
+#  geolocator: ^13.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+# Linting for good coding practices
+
+# Flutter specific configurations
+flutter:
+  uses-material-design: true
+
+  # Assets section to include image files
+  assets:
+    - assets/images/  # Ensure this path matches the actual folder structure
+
+# Fonts can be added here (if necessary)
+# fonts:
+#   - family: Schyler
+#     fonts:
+#       - asset: fonts/Schyler-Regular.ttf
+#       - asset: fonts/Schyler-Italic.ttf
+#         style: italic
+#   - family: Trajan Pro
+#     fonts:
+#       - asset: fonts/TrajanPro.ttf
+#       - asset: fonts/TrajanPro_Bold.ttf
+#         weight: 700

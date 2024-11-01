@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId">449787504996</string>
+    <string name="google_api_key">AIzaSyCrSG4kdR_vylCuCR9GnM2-Aqry_-IemFI</string>
+    <string name="google_app_id">1:449787504996:android:09836d89ee92ebf5897271</string>
+    <string name="project_id">ghardekhoapps</string>
+</resources>
